@@ -1,0 +1,16 @@
+C:\Users\chleo\source\repos\GhostSploit V3\GhostSploit V3\bin\Debug\GhostSploit V3.exe.config
+C:\Users\chleo\source\repos\GhostSploit V3\GhostSploit V3\bin\Debug\GhostSploit V3.exe
+C:\Users\chleo\source\repos\GhostSploit V3\GhostSploit V3\bin\Debug\GhostSploit V3.pdb
+C:\Users\chleo\source\repos\GhostSploit V3\GhostSploit V3\bin\Debug\FastColoredTextBox.dll
+C:\Users\chleo\source\repos\GhostSploit V3\GhostSploit V3\obj\Debug\GhostSploit V3.csproj.AssemblyReference.cache
+C:\Users\chleo\source\repos\GhostSploit V3\GhostSploit V3\obj\Debug\GhostSploit_V3.Properties.Resources.resources
+C:\Users\chleo\source\repos\GhostSploit V3\GhostSploit V3\obj\Debug\GhostSploit V3.csproj.GenerateResource.cache
+C:\Users\chleo\source\repos\GhostSploit V3\GhostSploit V3\obj\Debug\GhostSploit V3.csproj.CoreCompileInputs.cache
+C:\Users\chleo\source\repos\GhostSploit V3\GhostSploit V3\obj\Debug\GhostSploit V3.csproj.CopyComplete
+C:\Users\chleo\source\repos\GhostSploit V3\GhostSploit V3\obj\Debug\GhostSploit V3.exe
+C:\Users\chleo\source\repos\GhostSploit V3\GhostSploit V3\obj\Debug\GhostSploit V3.pdb
+C:\Users\chleo\source\repos\GhostSploit V3\GhostSploit V3\obj\Debug\GhostSploit_V3.Nebula.resources
+C:\Users\chleo\source\repos\GhostSploit V3\GhostSploit V3\obj\Debug\GhostSploit_V3.ScriptHub.resources
+C:\Users\chleo\source\repos\GhostSploit V3\GhostSploit V3\obj\Debug\GhostSploit_V3.WhatsNews.resources
+C:\Users\chleo\source\repos\GhostSploit V3\GhostSploit V3\obj\Debug\GhostSploit_V3.Loader.resources
+C:\Users\chleo\source\repos\GhostSploit V3\GhostSploit V3\bin\Debug\WeAreDevs_API.dll
